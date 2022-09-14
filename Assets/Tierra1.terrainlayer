@@ -6,11 +6,11 @@ TerrainLayer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: layer_Grass (Meadows)Grass (Meadows)_normalb956af97c33fc3d7
-  m_DiffuseTexture: {fileID: 2800000, guid: 46ae0649924b543a6bb192dd3c93b89e, type: 3}
-  m_NormalMapTexture: {fileID: 2800000, guid: 82a9d61070edf4649b38c0138097d645, type: 3}
+  m_Name: Tierra1
+  m_DiffuseTexture: {fileID: 2800000, guid: 0a701d8ff65ec4ea0b399612431785d0, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: 8a385d506a7b2364f9291f2bbb9fc9b5, type: 3}
   m_MaskMapTexture: {fileID: 0}
-  m_TileSize: {x: 3.5, y: 3.5}
+  m_TileSize: {x: 3, y: 3}
   m_TileOffset: {x: 0, y: 0}
   m_Specular: {r: 0, g: 0, b: 0, a: 0}
   m_Metallic: 0
